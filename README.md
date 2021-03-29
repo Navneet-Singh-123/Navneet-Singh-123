@@ -1,4 +1,4 @@
-### Hi there, I'm [Navneet Singh](https://navneetsingh.netlify.app/)👋
+### Hi there, I'm [Navneet Singh](https://navneetsingh.netlify.app/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a MERN Developer and a Competitve Programmer!!
 
@@ -29,17 +29,27 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+
+### Competitive Programming Profile
+
+<!-- Codeforces -->
+[<img align="left" title='Codeforces' alt="Raman's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+<!-- CodeChef -->
+[<img align="left" title='Codechef' alt="Raman's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+<!-- GeekforGeek -->
+[<img align="left" title='Geeksforgeeks' alt="Raman's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />][geekforgeek]
+
 <br />
 
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Navneet-Singh-123&show_icons=true&hide_border=true" />
+  <img align="left" alt="Navneet Singh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Navneet-Singh-123&show_icons=true&hide_border=true" />
 </details>
 <details>
   <summary>:zap: Most Used Languages</summary>
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Singh-123" />
+  <img align="left" alt="Navneet Singh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Singh-123" />
 </details>
 
 [website]: https://navneetsingh.netlify.app/
@@ -52,3 +62,6 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [facebook]: https://www.facebook.com/profile.php?id=100039934459690
+[geekforgeek]: https://auth.geeksforgeeks.org/user/death01/practice/
+[codeforces]: https://codeforces.com/profile/snavneet561
+[codechef]: https://www.codechef.com/users/ns_001
