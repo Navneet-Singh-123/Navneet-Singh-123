@@ -7,7 +7,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar, sketch, play badminton & table tennis, gyming.
 
-<img align="Right" width="250px" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+<br />
+
+---
 
 ### Connect with me:
 
