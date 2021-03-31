@@ -54,15 +54,9 @@
   <img align="left" alt="Navneet Singh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Singh-123" />
 </details>
 
-[website]: https://navneetsingh.netlify.app/
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[website]: https://www.navneetsingh.me/
 [instagram]: https://www.instagram.com/navneetsingh7952/
 [linkedin]: https://www.linkedin.com/in/navneet-singh-508045196/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [facebook]: https://www.facebook.com/profile.php?id=100039934459690
 [geekforgeek]: https://auth.geeksforgeeks.org/user/death01/practice/
 [codeforces]: https://codeforces.com/profile/snavneet561
