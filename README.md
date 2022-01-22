@@ -3,7 +3,7 @@
 ## I'm a MERN Developer and a Competitve Programmer!!
 
 - 👯 I’m looking to collaborate with developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar, sketch, play badminton & table tennis, gyming.
 
 <img  align="right" alt="GIF"  src="https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/master/code.gif?raw=true"  width="350"  height="260"  />
