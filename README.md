@@ -2,15 +2,13 @@
 
 ## I'm a MERN Developer and a Competitve Programmer!!
 
-- 🌱 I’m currently exploring MERN stack and Flutter
 - 👯 I’m looking to collaborate with developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar, sketch, play badminton & table tennis, gyming.
 
-
 ### Connect with me:
 
-[<img align="left" alt="navneetsingh.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="navneetsingh.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Navneet Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Navneet Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Navneet Singh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -35,10 +33,15 @@
 ### Competitive Programming Profile
 
 <!-- Codeforces -->
+
 [<img align="left" title='Codeforces' alt="Raman's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+
 <!-- CodeChef -->
+
 [<img align="left" title='Codechef' alt="Raman's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+
 <!-- GeekforGeek -->
+
 [<img align="left" title='Geeksforgeeks' alt="Raman's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />][geekforgeek]
 
 <br />
@@ -61,3 +64,22 @@
 [geekforgeek]: https://auth.geeksforgeeks.org/user/death01/practice/
 [codeforces]: https://codeforces.com/profile/snavneet561
 [codechef]: https://www.codechef.com/users/ns_001
+
+<table>
+      <thead>
+            <tr>
+                  <th>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Navneet-Singh-123&show_icons=true&theme=radical"></p>
+                  </th>
+                  <th>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet-Singh-123"> </p>
+                  </th>
+            </tr>
+      </thead>
+</table>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Singh-123&langs_count=10"> </p>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Navneet-Singh-123&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+                  🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up
+<a href="https://github.com/Navneet-Singh-123/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/Navneet-Singh-123/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/Navneet-Singh-123/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
+<p align="center">Show ❤️ by starring and forking repositories you find good! </p>
+<p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
