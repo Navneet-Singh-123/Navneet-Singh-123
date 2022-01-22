@@ -65,6 +65,8 @@
 [codeforces]: https://codeforces.com/profile/snavneet561
 [codechef]: https://www.codechef.com/users/ns_001
 
+<hr></hr>
+                                                        🏆 My Github Stats 🏆
 <table>
       <thead>
             <tr>
