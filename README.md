@@ -1,5 +1,3 @@
-![Hey there, I'm Navneet. I'm a software developer and tech enthusiast. Check out my work](https://github.com/Navneet-Singh-123/Navneet-Singh-123/raw/master/bio.gif)
-
 ### Hi there, I'm [Navneet Singh](https://www.navneetsingh.me/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a MERN Developer and a Competitve Programmer!!
@@ -8,9 +6,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar, sketch, play badminton & table tennis, gyming.
 
-<center>
-<img align="center" alt="GIF"  src="https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/master/code.gif?raw=true"  width="500"  height="320"  />
-</center>
+<img  align="right" alt="GIF"  src="https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/master/code.gif?raw=true"  width="300"  height="320"  />
 
 ### Connect with me:
 
@@ -36,7 +32,7 @@
 
 <br />
 
-### Competitive Programming Profile
+### Coding Profiles
 
 <!-- Codeforces -->
 
