@@ -1,3 +1,5 @@
+![Hey there, I'm Navneet. I'm a software developer and tech enthusiast. Check out my work](https://github.com/Navneet-Singh-123/Navneet-Singh-123/raw/master/bio.gif)
+
 ### Hi there, I'm [Navneet Singh](https://www.navneetsingh.me/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a MERN Developer and a Competitve Programmer!!
