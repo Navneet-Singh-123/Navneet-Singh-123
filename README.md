@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar, sketch, play badminton & table tennis, gyming.
 
-<img  align="right" alt="GIF"  src="https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/master/code.gif?raw=true"  width="380"  height="280"  />
+<img  align="right" alt="GIF"  src="https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/master/code.gif?raw=true"  width="370"  height="270"  />
 
 ### Connect with me:
 
