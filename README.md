@@ -76,7 +76,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Singh-123&langs_count=5"> </p>
 
 <p align="center">🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up </p>
-
 ![snake gif](https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
