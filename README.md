@@ -12,7 +12,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar, sketch, play badminton & table tennis, gyming.
 
-<img  align="right" alt="GIF"  src="https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/master/code.gif?raw=true"  width="350"  height="260"  />
+<!-- <img  align="right" alt="GIF"  src="https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/master/code.gif?raw=true"  width="350"  height="260"  /> -->
 
 ### Connect with me:
 
@@ -87,3 +87,8 @@
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
 <p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
+
+# 👑GitHub Profile Trophy
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Navneet-Singh-123&margin-w=15&row=2&column=3&theme=matrix" /></a>
+</p>
