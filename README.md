@@ -81,14 +81,15 @@
 </table>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Singh-123&langs_count=5"> </p>
 
+# 👑GitHub Profile Trophy
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Navneet-Singh-123&margin-w=15&row=2&column=3&theme=matrix" /></a>
+</p>
+
 <p align="center">🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up </p>
 
 ![snake gif](https://github.com/Navneet-Singh-123/Navneet-Singh-123/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
 <p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
-
-# 👑GitHub Profile Trophy
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Navneet-Singh-123&margin-w=15&row=2&column=3&theme=matrix" /></a>
-</p>
