@@ -1,4 +1,10 @@
-### Hi there, I'm [Navneet Singh](https://www.navneetsingh.me/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23348AAD&size=17&center=true&lines=Hi%2C+My+name+is+Navneet+Singh;Welcome+to+my+GitHub+Profile" />
+</p>
+
+<h2 align="center"><img src="header.gif"></h2>
+
+# 😎About Me
 
 ## I'm a MERN Developer and a Competitve Programmer!!
 
@@ -50,13 +56,13 @@
 
 ---
 
-[website]: https://www.navneetsingh.me/
+[website]: https://navneet-singh.com/
 [instagram]: https://www.instagram.com/navneetsingh7952/
-[linkedin]: https://www.linkedin.com/in/navneet-singh-508045196/
+[linkedin]: https://www.linkedin.com/in/navneetsingh123/
 [facebook]: https://www.facebook.com/profile.php?id=100039934459690
 [geekforgeek]: https://auth.geeksforgeeks.org/user/death01/practice/
 [codeforces]: https://codeforces.com/profile/snavneet561
-[codechef]: https://www.codechef.com/users/ns_001
+[codechef]: https://www.codechef.com/users/death_01
 
 🏆 My Github Stats 🏆
 <br />
