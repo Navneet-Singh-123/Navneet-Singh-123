@@ -64,28 +64,21 @@
 [codeforces]: https://codeforces.com/profile/snavneet561
 [codechef]: https://www.codechef.com/users/death_01
 
-🏆 My Github Stats 🏆
-<br />
+# ⚙️Analytics
 
-<table>
-      <thead>
-            <tr>
-                  <th>
-                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Navneet-Singh-123&show_icons=true&theme=radical"></p>
-                  </th>
-                  <th>
-                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet-Singh-123"> </p>
-                  </th>
-            </tr>
-      </thead>
-</table>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Singh-123&langs_count=5"> </p>
+<br>
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Navneet-Singh-123&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p>
+
+| <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Navneet-Singh-123?cardType=github&theme=tokyonight" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet-Singh-123&&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 # 👑GitHub Profile Trophy
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Navneet-Singh-123&margin-w=15&row=2&column=3&theme=matrix" /></a>
-</p>
+</p>x
 
 <p align="center">🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up </p>
 
